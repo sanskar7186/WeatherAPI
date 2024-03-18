@@ -1,2 +1,3 @@
 # WeatherAPI
-Weather Api 
+This project is a simple web application that allows users to check current weather conditions for various locations around the world. The application uses HTML, CSS, and JavaScript to create an interactive and user-friendly interface.The primary goal of this project is to demonstrate the ability to fetch and display real-time data from a weather API (Application Programming Interface) while providing an aesthetically pleasing and intuitive user experience. By combining modern web technologies with accurate and relevant weather data, this application showcases the power and potential of APIs and web development.
+
